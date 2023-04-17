@@ -1,3 +1,3 @@
 # UID64
 
-Unique ID generator.
+Fast and collision free 64 bit ID generator.
